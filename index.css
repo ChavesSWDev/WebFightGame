@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@900&family=Shadows+Into+Light&display=swap');
+
+.menu {
+    position: relative;
+    height: 80vh;
+}
+
+.screen__container {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    top: 50%;
+    left: 35%;
+}
